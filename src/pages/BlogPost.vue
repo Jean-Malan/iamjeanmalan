@@ -83,7 +83,7 @@ import blogPosts from '../data/blogPosts';
 
 // Lazy load the DataStrategyVisual component
 const DataStrategyVisual = defineAsyncComponent(() => 
-  import('../components/blog/tech/DataStrategyVisual.vue')
+  import('../components/DataStrategyVisual.vue')
 );
 
 const route = useRoute();
