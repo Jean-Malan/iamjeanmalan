@@ -1,7 +1,7 @@
 <template>
   <div class="relative h-screen w-full overflow-hidden">
     <!-- Background image -->
-    <div class="absolute inset-0 bg-cover bg-center" style="background-image: url('/src/assets/images/background.jpg')"></div>
+    <div class="absolute inset-0 bg-cover bg-center" style="background-image: url('src/assets/images/background.jpg')"></div>
     
     <!-- Overlay to ensure text readability -->
     <div class="absolute inset-0 bg-black bg-opacity-50"></div>
